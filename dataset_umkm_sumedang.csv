@@ -1,0 +1,61 @@
+id_umkm,nama_usaha,kecamatan,kategori_usaha,omzet_bulanan_juta,jumlah_pegawai,lama_usaha_tahun,aset_juta,akses_digital,pinjaman_modal_juta
+1,Warung Makan Bu Sari,Sumedang Utara,Kuliner,8.5,3,5,15.0,1,0
+2,Toko Kelontong Pak Ade,Sumedang Selatan,Perdagangan,12.0,2,10,20.0,0,0
+3,Konveksi Batik Pamitran,Tanjungsari,Kerajinan,45.0,12,8,120.0,1,25
+4,Bengkel Las Maju Jaya,Sumedang Utara,Jasa,18.0,4,6,35.0,0,10
+5,Tahu Bungkeng Asli,Sumedang Selatan,Kuliner,95.0,18,20,200.0,1,50
+6,Warung Kopi Mang Ujang,Tanjungsari,Kuliner,5.0,1,3,8.0,0,0
+7,Keripik Singkong Neng,Cisarua,Olahan Pangan,22.0,5,4,40.0,1,15
+8,Toko Bangunan Sejahtera,Sumedang Utara,Perdagangan,80.0,6,15,150.0,0,30
+9,Percetakan Citra,Sumedang Selatan,Jasa,30.0,7,9,75.0,1,20
+10,Kebun Sayur Pak Dedi,Conggeang,Pertanian,10.0,2,7,12.0,0,0
+11,Catering Ibu Yanti,Jatinangor,Kuliner,35.0,8,6,60.0,1,20
+12,Toko Oleh-oleh Sumedang,Sumedang Utara,Perdagangan,55.0,5,12,100.0,1,25
+13,Salon Kecantikan Dewi,Jatinangor,Jasa,15.0,3,5,25.0,1,0
+14,Budidaya Ikan Lele,Conggeang,Pertanian,20.0,3,4,30.0,0,10
+15,Angkringan Nusantara,Jatinangor,Kuliner,7.0,2,2,10.0,1,0
+16,Pengrajin Bambu Seni,Cisarua,Kerajinan,14.0,4,11,20.0,0,5
+17,Apotek Sehat,Sumedang Selatan,Jasa,90.0,5,8,180.0,0,40
+18,Laundry Kilat,Jatinangor,Jasa,9.0,2,3,12.0,1,0
+19,Grosir Sembako Berkah,Sumedang Utara,Perdagangan,200.0,10,18,400.0,0,100
+20,Kue Brownies Amanda,Tanjungsari,Olahan Pangan,18.0,4,3,30.0,1,10
+21,Ternak Ayam Mandiri,Conggeang,Pertanian,40.0,4,6,70.0,0,20
+22,Mebel Kayu Jepara,Sumedang Selatan,Kerajinan,60.0,10,14,130.0,0,30
+23,Jasa Ekspedisi Lokal,Jatinangor,Jasa,25.0,5,4,45.0,1,15
+24,Warung Nasi Ampera,Tanjungsari,Kuliner,11.0,3,7,18.0,0,0
+25,Toko Fashion Online,Jatinangor,Perdagangan,28.0,2,2,30.0,1,0
+26,Jasa Fotografi,Jatinangor,Jasa,12.0,1,3,20.0,1,0
+27,Kebun Strawberry,Cisarua,Pertanian,50.0,6,5,80.0,1,20
+28,Toko Elektronik Murah,Sumedang Utara,Perdagangan,120.0,8,10,250.0,0,60
+29,Bumbu Racik Nusantara,Conggeang,Olahan Pangan,30.0,6,5,55.0,1,15
+30,Rental Alat Berat,Sumedang Selatan,Jasa,150.0,4,12,500.0,0,200
+31,Warung Seblak Viral,Jatinangor,Kuliner,16.0,3,2,20.0,1,0
+32,Pengolahan Kopi Lokal,Conggeang,Olahan Pangan,42.0,7,6,90.0,1,25
+33,Batik Tulis Sumedang,Sumedang Utara,Kerajinan,70.0,15,20,160.0,1,35
+34,Minimarket Berkah,Tanjungsari,Perdagangan,180.0,9,7,350.0,0,80
+35,Studio Musik Indie,Jatinangor,Jasa,8.0,2,3,15.0,1,0
+36,Peternakan Kambing,Cisarua,Pertanian,35.0,3,8,60.0,0,15
+37,Distributor Air Minum,Sumedang Utara,Perdagangan,45.0,6,9,85.0,0,20
+38,Usaha Jahit Modern,Tanjungsari,Kerajinan,20.0,5,6,35.0,1,10
+39,Bengkel Motor Harapan,Sumedang Selatan,Jasa,22.0,3,5,40.0,0,10
+40,Frozen Food Bu Elin,Jatinangor,Olahan Pangan,25.0,4,3,40.0,1,10
+41,Toko Buku Ilmu,Sumedang Utara,Perdagangan,15.0,2,8,25.0,0,0
+42,Galeri Seni Lokal,Sumedang Selatan,Kerajinan,8.0,2,5,12.0,1,0
+43,Kantin Kampus Subur,Jatinangor,Kuliner,30.0,6,6,45.0,0,15
+44,Budidaya Jamur Tiram,Conggeang,Pertanian,18.0,3,3,25.0,0,10
+45,Toko Aksesoris HP,Jatinangor,Perdagangan,22.0,2,4,30.0,1,0
+46,Catering Prasmanan,Sumedang Utara,Kuliner,50.0,10,9,85.0,1,25
+47,Usaha Sablon Kaos,Jatinangor,Kerajinan,17.0,4,4,28.0,1,5
+48,Pemancingan Keluarga,Tanjungsari,Jasa,12.0,3,6,20.0,0,0
+49,Toko Mainan Anak,Sumedang Selatan,Perdagangan,20.0,2,5,30.0,0,0
+50,Warung Mie Ayam Spesial,Sumedang Utara,Kuliner,9.0,2,4,14.0,0,0
+51,Usaha Catering Pernikahan,Tanjungsari,Kuliner,75.0,12,11,140.0,1,35
+52,Toko Sembako Murah,Conggeang,Perdagangan,35.0,3,6,55.0,0,15
+53,Pengrajin Anyaman Rotan,Cisarua,Kerajinan,16.0,5,13,22.0,0,5
+54,Klinik Kecantikan,Jatinangor,Jasa,65.0,5,4,120.0,1,30
+55,Budidaya Sayur Organik,Cisarua,Pertanian,28.0,4,4,45.0,1,10
+56,Warung Bakso Malang,Sumedang Selatan,Kuliner,14.0,3,5,22.0,0,0
+57,Toko Spare Part Motor,Sumedang Utara,Perdagangan,55.0,4,8,95.0,0,25
+58,Jasa Desain Grafis,Jatinangor,Jasa,20.0,2,3,10.0,1,0
+59,Pengolahan Tempe,Conggeang,Olahan Pangan,15.0,3,8,20.0,0,5
+60,Rental Kendaraan,Sumedang Selatan,Jasa,70.0,5,7,200.0,0,50
